@@ -2,7 +2,7 @@
 
 # Details
 
-The token presale starts on July 1ST and lasts for a maximum of 4 months. As soon as the Hard Cap is reached presale stops.
+The token presale starts on July 1st and lasts for a maximum of 4 months. As soon as the Hard Cap is reached presale stops.
 The minimum amount to be raised is $1mil, while the maximum cap is $45mil. Private Sale discounts as follows.
 - The first month entails a 20% discount  
 - The second month entails a 15% discount
