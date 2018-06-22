@@ -6,8 +6,6 @@ The token Private Sale starts on July 1st and lasts for a maximum of 4 months. A
 The minimum amount to be raised is $1mil with a maximum cap of $45mil. Private Sale discounts are as follows.
 - The first month entails a 20% discount  
 - The second month entails a 15% discount
-// - The third month entails a 10% discount  
-// - The fourth month entails a 5% discount.
 
 The maximum amount of tokens is 180 000 000. Any remaining (unsold) tokens that are minted to the Palladium wallet will be burned.
 The contract defines a minimum and maximum ether investment, to be defined at a later stage.
