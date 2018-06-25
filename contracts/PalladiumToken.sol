@@ -2,10 +2,10 @@ pragma solidity ^0.4.18;
 
 import './token/MintableToken.sol';
 
-contract TraceToken is MintableToken {
+contract xPalladiumToken is MintableToken {
 
-    string public constant name = 'Palladium token';
-    string public constant symbol = 'PTM';
+    string public constant name = 'xPalladium token';
+    string public constant symbol = 'XPTM';
     uint8 public constant decimals = 18;
     bool public transferAllowed;
 

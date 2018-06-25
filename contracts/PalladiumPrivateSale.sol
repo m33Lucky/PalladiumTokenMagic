@@ -1,7 +1,7 @@
 pragma solidity ^0.4.18;
 
-import './SafeMath.sol';
-import './Ownable.sol';
+import './math/SafeMath.sol';
+import './ownership/Ownable.sol';
 import './xPalladiumToken.sol';
 
 contract xPalladiumTokenSale is Ownable{
@@ -10,9 +10,9 @@ contract xPalladiumTokenSale is Ownable{
 	// Presale token
 	xPalladiumToken public token;
 
-  // amount of tokens in existance - 180mil xPalladiumToken = 180e25 Tracks
-  uint256 public constant TOTAL_NUM_TOKENS = 180e25; // 1 xPalladiumToken = 1e18 Tracks, all units in contract in Tracks
-  uint256 public constant tokensForSale = 144e25; // 80% of all tokens
+  // amount of tokens in existance - 180mil xPalladiumToken = 18e25 Tracks
+  uint256 public constant TOTAL_NUM_TOKENS = 18e25; // 1 xPalladiumToken = 1e18 Tracks, all units in contract in Tracks
+  uint256 public constant tokensForSale = 144e24; // 80% of all tokens
 
   // totalEthers received
   uint256 public totalEthers = 0;
