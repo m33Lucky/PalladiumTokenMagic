@@ -29,7 +29,7 @@ contract xPalladiumTokenSale is Ownable{
   uint256 public constant min_investment_eth = 2 ether; // fixed value, not changing
   uint256 public constant max_investment_eth = 200 ether; // TODO - set value at time of deployment
 
-  // TODO - set minimum investmet za presale na 5ETH
+  // TODO - set minimum investmet for private sale A 
   uint256 public constant min_investment_presale_eth = 3 ether; // fixed value, not changing
 
   // refund if softCap is not reached
