@@ -4,13 +4,12 @@
 
 The token Private Sale starts on July 1st and lasts for a maximum of 3 months. As soon as the hard cap is reached, the Private Sale stops.
 The minimum amount to be raised is $1mil with a maximum cap of $45mil. Private Sale discounts are as follows.
-- The first 6 Weeks sale A entails a 20% discount  
-- The second 6 Weeks sale B entails a 15% discount
+- The first 6 Weeks of sale A entails a 20% discount  
+- The second 6 Weeks of sale B entails a 15% discount
 
-The maximum amount of tokens is 180 000 000. Any remaining (unsold) tokens that are minted to the Palladium wallet will be burned.
+The maximum amount of tokens is 180000000 million. Any remaining (unsold) tokens that are minted to the Palladium wallet will be burned.
 The contract defines a minimum at sale A of 3 ETH 
 The contract defines a minimum of 2 ETH and maximum of 200 ETH.
-The price of PTM will be pegged to ETH at contract deployment.
 A simple vesting functionality is also implemented.
 
 
