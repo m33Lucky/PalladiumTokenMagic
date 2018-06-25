@@ -20,7 +20,7 @@ Palladium enables peer-peer trading with decentralized, blockchain-supported pla
 More information on Palladium Token Magic can be found:
 - on the [website](https://mycoinsbot.com/private-sale-palladium/)
 - in the [Whitepaper](https://)
-- on the [Technology Roadmap](https://https://drive.google.com/file/d/1p8vOxwaYPFVt22SgPnTK4Gw4m_jGhZks/view?usp=sharing)
+- on the [Technology Roadmap](https://drive.google.com/file/d/17LuSs6FOo521ZjLc4S2llIVwUJ_BVyto/view?usp=sharing)
 - our [Telegram channel](https://t.me/joinchat/HlkDkxChO7XrVDAWhFomCw)
 
 
